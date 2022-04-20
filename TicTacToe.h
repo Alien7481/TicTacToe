@@ -4,4 +4,5 @@
 void init();
 bool is_gameover();
 void print();
-void get_coords();
+void make_next_move();
+char get_winner();
